@@ -24,7 +24,9 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 ![Horiseon](assets/images/screen_shot_horiseon.jpg)
+
 ![Horiseon 1](assets/images/screen_shot_horiseon_1.jpg)
+
 ![Horiseon 2](assets/images/screen_shot_horiseon_2.jpg)
 
 ## Credits
