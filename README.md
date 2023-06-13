@@ -20,6 +20,6 @@ Web accesibility is the practice of designing and developing websites and conten
 
 No dependencies are required to run Horiseon on localhost.
 
-## Questions
+## Badges
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
