@@ -9,6 +9,8 @@ Web accesibility is the practice of designing and developing websites and conten
 
 ## Deployment Link
 
+👆Click Here 👆
+
 ## Usage
 ![Horiseon](assets/images/screen_shot_horiseon.jpg)
 
@@ -19,7 +21,5 @@ Web accesibility is the practice of designing and developing websites and conten
 ## Instalation
 
 No dependencies are required to run Horiseon on localhost.
-
-## Badges
 
 
