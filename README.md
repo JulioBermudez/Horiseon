@@ -10,7 +10,7 @@ Web accesibility is the practice of designing and developing websites and conten
 This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future updates this web application will be optimized for any screen size.
 
 ## Deployment Link
-
+https://juliobermudez.github.io/Horiseon/
 👆Click Here 👆
 
 ## Usage
