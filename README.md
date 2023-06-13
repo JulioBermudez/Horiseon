@@ -2,21 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Web accesibility is the practice of designing and developing websites and content that can be accessed and used by all individuals, regardless of any disability they may have. This includes individuals with visual, auditory, physical, or cognitive disabilities, as well as those who may be using assistive technologies such as screen readers or voice recognition software. The goal of this project is to remove barriers and provide equal access to information and online services that non-disabeled individuals can enjoy.
 
 ## Usage
 ![Horiseon](assets/images/screen_shot_horiseon.jpg)
